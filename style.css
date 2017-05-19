@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Kumar+One');
+body{
+background-image: url('http://images.all-free-download.com/images/graphiclarge/nostalgic_blue_background_04_hd_pictures_169785.jpg')
+}
+
+h1{
+font-family: 'Kumar One', cursive;
+  text-align: center;
+}
+svg{
+  background-color: orange;
+  border: darkblue solid 3px;
+}
